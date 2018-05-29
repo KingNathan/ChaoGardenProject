@@ -4,15 +4,15 @@ timeCreated: 1527180899
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Shop Sprites_0
-    21300002: Shop Sprites_1
-    21300004: Shop Sprites_2
-    21300006: Shop Sprites_3
-    21300008: Shop Sprites_4
-    21300010: Shop Sprites_5
-    21300012: Shop Sprites_6
-    21300014: Shop Sprites_7
-    21300016: Shop Sprites_8
+    21300000: Orange
+    21300002: Blue
+    21300004: Pink
+    21300006: Green
+    21300008: Purple
+    21300010: Yellow
+    21300012: Red
+    21300014: Egg
+    21300016: Trumpet
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -130,7 +130,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shop Sprites_0
+      name: Orange
       rect:
         serializedVersion: 2
         x: 1
@@ -138,13 +138,13 @@ TextureImporter:
         width: 12
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_1
+      name: Blue
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_2
+      name: Pink
       rect:
         serializedVersion: 2
         x: 0
@@ -166,13 +166,13 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_3
+      name: Green
       rect:
         serializedVersion: 2
         x: 1
@@ -180,13 +180,13 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_4
+      name: Purple
       rect:
         serializedVersion: 2
         x: 1
@@ -194,13 +194,13 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_5
+      name: Yellow
       rect:
         serializedVersion: 2
         x: 1
@@ -208,13 +208,13 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_6
+      name: Red
       rect:
         serializedVersion: 2
         x: 1
@@ -222,13 +222,13 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_7
+      name: Egg
       rect:
         serializedVersion: 2
         x: 2
@@ -236,13 +236,13 @@ TextureImporter:
         width: 12
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Shop Sprites_8
+      name: Trumpet
       rect:
         serializedVersion: 2
         x: 1
@@ -250,7 +250,7 @@ TextureImporter:
         width: 15
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

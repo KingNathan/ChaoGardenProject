@@ -251,6 +251,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ChaoController.cs" />
     <Compile Include="Assets\Scripts\Fruit_Orange.cs" />
+    <Compile Include="Assets\Scripts\Items\FoodData.cs" />
+    <Compile Include="Assets\Scripts\Items\ItemData.cs" />
     <Compile Include="Assets\Scripts\OrderInLayerByPosition.cs" />
     <Compile Include="Assets\Scripts\UI\ShopItemUI.cs" />
     <Compile Include="Assets\Scripts\UI\ShopMenuUI.cs" />

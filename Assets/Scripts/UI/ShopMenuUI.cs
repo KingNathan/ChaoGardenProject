@@ -52,7 +52,9 @@ public class ShopMenuUI : MonoBehaviour {
     }
 
     private Vector2 GetWorldPositionFromMousePosition() {
-        return _camera.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 mousePos = Input.mousePosition;
+        mousePos.z = 10;
+        return _camera.ScreenToWorldPoint(mousePos);
     }
 
     private void AddAllItemsToShop() {
@@ -84,7 +86,7 @@ public class ShopMenuUI : MonoBehaviour {
     private void PlaceDownItem() {
         if (_selectedItem) {
             GameObject item = Instantiate(_itemPrefab, GetWorldPositionFromMousePosition(), Quaternion.identity);
-            item.GetComponent<SpriteRenderer>().sprite = _selectedItem.Sprite;
+            item.GetComponentInChildren<SpriteRenderer>().sprite = _selectedItem.Sprite;
         }
         UnselectItem();
         CloseShop();
